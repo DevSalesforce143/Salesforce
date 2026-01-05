@@ -3,5 +3,7 @@ public with sharing class firstclass {
         string UserName = '';
         Integer num = 10;
         Integer no;
+        Decimal amount;
+        Boolean run;
     }
 }
