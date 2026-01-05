@@ -4,5 +4,6 @@ public with sharing class firstclass {
         Integer num = 10;
         Integer no;
         Decimal amount;
+        Boolean run;
     }
 }
